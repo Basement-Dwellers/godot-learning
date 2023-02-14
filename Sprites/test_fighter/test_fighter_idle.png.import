@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d3krjso15aax4"
-path="res://.godot/imported/Sportsballer - ThrowFootball.png-623c5e373af9c8e5ac5a30d1ac206895.ctex"
+uid="uid://dqb52pxsafcsu"
+path="res://.godot/imported/test_fighter_idle.png-3299d811d330cc281ce271eb8ebb3238.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Sportsballer/Sportsballer - ThrowFootball.png"
-dest_files=["res://.godot/imported/Sportsballer - ThrowFootball.png-623c5e373af9c8e5ac5a30d1ac206895.ctex"]
+source_file="res://Sprites/test_fighter/test_fighter_idle.png"
+dest_files=["res://.godot/imported/test_fighter_idle.png-3299d811d330cc281ce271eb8ebb3238.ctex"]
 
 [params]
 

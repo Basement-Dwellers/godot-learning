@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bub2kxbplj45m"
-path="res://.godot/imported/test_fighter_jump.png-957cdbd1634f71d87d3c9085db3883c6.ctex"
+uid="uid://gvlw8jxdw352"
+path="res://.godot/imported/test_fighter_run.png-4feea9943540c7a3dc3c04ab260f6e8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/test_fighter_jump.png"
-dest_files=["res://.godot/imported/test_fighter_jump.png-957cdbd1634f71d87d3c9085db3883c6.ctex"]
+source_file="res://Sprites/test_fighter/test_fighter_run.png"
+dest_files=["res://.godot/imported/test_fighter_run.png-4feea9943540c7a3dc3c04ab260f6e8d.ctex"]
 
 [params]
 
@@ -31,4 +31,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0
