@@ -181,6 +181,7 @@ physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_eq61p")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_lt7f7"]
+size = Vector2(5, 13)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1hpxb"]
 atlas = ExtResource("3_djb2n")
@@ -308,10 +309,9 @@ layer_0/tile_data = PackedInt32Array(589830, 0, 0, 589831, 131072, 0, 589832, 65
 [node name="CharacterBody2D" type="CharacterBody2D" parent="2D/Characters"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="2D/Characters/CharacterBody2D"]
+position = Vector2(-0.5, 0.5)
 shape = SubResource("RectangleShape2D_lt7f7")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="2D/Characters/CharacterBody2D"]
 sprite_frames = SubResource("SpriteFrames_15fif")
-animation = &"Jump"
-frame = 2
-frame_progress = 1.0
+animation = &"Idle"
