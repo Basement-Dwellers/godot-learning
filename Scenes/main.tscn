@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://bjqh1v032cjdn"]
+[gd_scene load_steps=2 format=3 uid="uid://bjqh1v032cjdn"]
+
+[ext_resource type="Texture2D" uid="uid://2y0el2xh2l6e" path="res://Sprites/Stage/Backdrop Sky.png" id="1_ingq4"]
 
 [node name="World" type="Node"]
 
@@ -6,3 +8,10 @@
 
 [node name="2D" type="Node2D" parent="."]
 texture_filter = 1
+
+[node name="Stage" type="Node2D" parent="2D"]
+
+[node name="Backdrop" type="Sprite2D" parent="2D/Stage"]
+scale = Vector2(30, 30)
+texture = ExtResource("1_ingq4")
+centered = false
