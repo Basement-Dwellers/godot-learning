@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bjqh1v032cjdn"]
+
+[node name="World" type="Node"]
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="2D" type="Node2D" parent="."]
