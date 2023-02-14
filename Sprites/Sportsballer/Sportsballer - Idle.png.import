@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bub2kxbplj45m"
-path="res://.godot/imported/test_fighter_jump.png-957cdbd1634f71d87d3c9085db3883c6.ctex"
+uid="uid://chix80aolmcem"
+path="res://.godot/imported/Sportsballer - Idle.png-0a607ed33db98a29ad3df466d07f81d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/test_fighter_jump.png"
-dest_files=["res://.godot/imported/test_fighter_jump.png-957cdbd1634f71d87d3c9085db3883c6.ctex"]
+source_file="res://Sprites/Sportsballer/Sportsballer - Idle.png"
+dest_files=["res://.godot/imported/Sportsballer - Idle.png-0a607ed33db98a29ad3df466d07f81d8.ctex"]
 
 [params]
 
