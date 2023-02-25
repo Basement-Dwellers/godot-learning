@@ -1,11 +1,11 @@
 [gd_scene load_steps=22 format=3 uid="uid://bjqh1v032cjdn"]
 
-[ext_resource type="Texture2D" uid="uid://2y0el2xh2l6e" path="res://Sprites/Stage/Backdrop Sky.png" id="1_ingq4"]
+[ext_resource type="Texture2D" uid="uid://bm28ntxsn3buw" path="res://Sprites/Stage/Backdrop Sky.png" id="1_ingq4"]
 [ext_resource type="Texture2D" uid="uid://ds521dmwtwpiu" path="res://Sprites/Stage/tile_01.png" id="2_bslq2"]
-[ext_resource type="Texture2D" uid="uid://cajklria3s11n" path="res://Sprites/Sportsballer/Sportsballer - Idle.png" id="3_djb2n"]
-[ext_resource type="Texture2D" uid="uid://h0shasuipq7y" path="res://Sprites/Sportsballer/Sportsballer - Jump.png" id="4_8kkk6"]
-[ext_resource type="Texture2D" uid="uid://c8ky2rbbrcvdc" path="res://Sprites/Sportsballer/Sportsballer - Sprint.png" id="5_dmbvj"]
-[ext_resource type="Texture2D" uid="uid://d3krjso15aax4" path="res://Sprites/Sportsballer/Sportsballer - ThrowFootball.png" id="6_3r278"]
+[ext_resource type="Texture2D" uid="uid://dv4gt2l4n6twm" path="res://Sprites/Sportsballer/Sportsballer - Idle.png" id="3_djb2n"]
+[ext_resource type="Texture2D" uid="uid://b4s4svj8dfo5" path="res://Sprites/Sportsballer/Sportsballer - Jump.png" id="4_8kkk6"]
+[ext_resource type="Texture2D" uid="uid://bc4dn3y57b10f" path="res://Sprites/Sportsballer/Sportsballer - Sprint.png" id="5_dmbvj"]
+[ext_resource type="Texture2D" uid="uid://djrmrv6ktg28j" path="res://Sprites/Sportsballer/Sportsballer - ThrowFootball.png" id="6_3r278"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_eq61p"]
 texture = ExtResource("2_bslq2")
