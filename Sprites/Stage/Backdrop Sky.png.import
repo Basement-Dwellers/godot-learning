@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqb52pxsafcsu"
-path="res://.godot/imported/test_fighter_idle.png-3299d811d330cc281ce271eb8ebb3238.ctex"
+uid="uid://bm28ntxsn3buw"
+path="res://.godot/imported/Backdrop Sky.png-b96ccaf95743c44e8776fa32b5a7900e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/test_fighter/test_fighter_idle.png"
-dest_files=["res://.godot/imported/test_fighter_idle.png-3299d811d330cc281ce271eb8ebb3238.ctex"]
+source_file="res://Sprites/Stage/Backdrop Sky.png"
+dest_files=["res://.godot/imported/Backdrop Sky.png-b96ccaf95743c44e8776fa32b5a7900e.ctex"]
 
 [params]
 

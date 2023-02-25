@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://gvlw8jxdw352"
-path="res://.godot/imported/test_fighter_run.png-4feea9943540c7a3dc3c04ab260f6e8d.ctex"
+uid="uid://dqb52pxsafcsu"
+path="res://.godot/imported/test_fighter_idle.png-f37bda0e03e9e005e2712a8fac270205.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/test_fighter/test_fighter_run.png"
-dest_files=["res://.godot/imported/test_fighter_run.png-4feea9943540c7a3dc3c04ab260f6e8d.ctex"]
+source_file="res://Sprites/Test Fighter/test_fighter_idle.png"
+dest_files=["res://.godot/imported/test_fighter_idle.png-f37bda0e03e9e005e2712a8fac270205.ctex"]
 
 [params]
 
@@ -31,4 +31,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1
